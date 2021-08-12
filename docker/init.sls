@@ -4,5 +4,5 @@
 include:
   - .software
   - .compose
-  # .networks
-  # .containers
+  - .networks
+  - .containers
