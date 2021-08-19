@@ -4,6 +4,5 @@
 include:
   - .software
   - .compose
-  - .compose.ng
   - .networks
   - .containers
